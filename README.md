@@ -1,3 +1,9 @@
+<!--
+  ~ Copyright (c) 2023-2024 Datalayer, Inc.
+  ~
+  ~ BSD 3-Clause License
+-->
+
 <div align="center">
   <a href="https://github.com/Phala-Network/phala-cloud-mcp-starter">
     <h1>Phala Cloud MCP Starter</h1>
